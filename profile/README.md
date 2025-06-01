@@ -13,6 +13,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/PetCareAI?style=social)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PetCareAI.PetCareAI)](https://github.com/PetCareAI)
 
+![img_1 2](https://github.com/user-attachments/assets/a990548d-ef0c-4b5e-ad5f-7f1e4da9278e)
+
 ---
 
 </div>

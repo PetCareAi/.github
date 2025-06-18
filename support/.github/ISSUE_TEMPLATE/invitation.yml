@@ -1,0 +1,26 @@
+name: Invitation to the GitHub PetCareAI Organization
+description: Eu gostaria de fazer parte da comunidade incrível
+title: "Por favor, convide-me para a Organização da Comunidade GitHub"
+labels: [invite me to the organisation]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Nome
+      placeholder: Insira seu nome aqui
+    validations:
+      required: true
+  - type: input
+    id: discordname
+    attributes:
+      label: Discord Username(se existir)
+      placeholder: Insira seu nome de usuário de discórdia aqui
+    validations:
+      required: false
+  - type: textarea
+    id: Additional
+    attributes:
+      label: Contexto Adicional
+      description: O que você gosta nesta comunidade/por que você quer participar?
+    validations:
+      required: false

@@ -3,7 +3,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Raise an [issue](https://github.com/PetCareAI/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) to join the PetCareAI GitHub organisation.
+Raise an [issue](https://github.com/PetCareAi/.github/tree/main/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) to join the PetCareAI GitHub organisation.
 
 ### Some vague idea of how we could turn this into a support channel
 

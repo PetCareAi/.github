@@ -9,17 +9,14 @@
   [![App Store](https://img.shields.io/badge/App_Store-Download-blue?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/petcare-ai)
   [![Play Store](https://img.shields.io/badge/Google_Play-Download-green?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.petcare.ai)
   [![Discord](https://img.shields.io/badge/Discord-Join_Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/petcareai)
-
-  <br/>
-
   ![GitHub Org's stars](https://img.shields.io/github/stars/PetCareAI?style=for-the-badge&color=2D0073&logo=github)
   ![GitHub followers](https://img.shields.io/github/followers/PetCareAI?style=for-the-badge&color=E070EF&logo=github)
-  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PetCareAI.PetCareAI)](https://github.com/PetCareAI)
+  [![Visitors](https://img.shields.io/badge/Visitors-Counter-orange?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/PetCareAI)
   ![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-deeppink?style=for-the-badge)
 
   **Uma plataforma completa de cuidados inteligentes que conecta tutores, veterinários e tecnologia**
     
-  [🌟 Demo Online](https://petcareai-crm.vercel.app) • [📚 Documentação](docs/) • [💬 Suporte](https://github.com/petcareai/crm/issues) • [🐛 Report Bug](https://github.com/petcareai/crm/issues/new)
+  [🌟 Web Site](https://petcareai.com.br) • [📚 Documentação](https://documentation.petcareai.com.br) • [💬 Suporte](https://github.com/petcareai/issues) • [🐛 Report Bug](https://github.com/petcareai/issues/new)
 
   [![License](https://img.shields.io/badge/License-Proprietary-yellow?style=for-the-badge)](#licença)
   [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com)
@@ -54,6 +51,10 @@ A **PetCare AI** é uma organização inovadora fundada em **2025**, dedicada a 
 
 ---
 
+https://github.com/user-attachments/assets/5d7971a8-b144-4886-85b9-3bb777324b64
+
+---
+
 ## 📊 Métricas e Conquistas
 
 <div align="center">
@@ -72,8 +73,8 @@ A **PetCare AI** é uma organização inovadora fundada em **2025**, dedicada a 
 - 🤖 **95% de precisão** nos modelos de ML
 - 📱 **Sistemas multi-plataforma** (Web, Mobile, Desktop)
 - 🌟 **50.000+ linhas** de código em produção
-- 🏥 **100+ veterinários** validando tecnologia
-- 💡 **3 patentes** em desenvolvimento
+- 🏥 **1+ veterinários** validando tecnologia
+- 💡 **0 patentes** em desenvolvimento
 
 </div>
 
@@ -254,7 +255,7 @@ A **PetCare AI** é uma organização inovadora fundada em **2025**, dedicada a 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/estevam-souza)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/estevam5s)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@petcareai.com.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@estevamsouza.com.br)
 
 > **Especialista em IA/ML aplicada ao cuidado animal**  
 > **Arquiteto de sistemas multi-plataforma escaláveis**
@@ -474,16 +475,14 @@ Seguimos o [**Contributor Covenant v2.1**](https://www.contributor-covenant.org/
 <div align="center">
 
 ### 📱 Redes Sociais
-[![Twitter](https://img.shields.io/badge/Twitter-@PetCareAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/petcareai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Company-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/petcare-ai)
-[![Instagram](https://img.shields.io/badge/Instagram-@petcareai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/petcareai)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@petcareai)
+[![Instagram](https://img.shields.io/badge/Instagram-@petcareai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aipetcar)
 
 ### 🎓 Recursos & Suporte
-[![Documentation](https://img.shields.io/badge/Docs-Official-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://docs.petcareai.com.br)
+[![Documentation](https://img.shields.io/badge/Docs-Official-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://documentation.petcareai.com.br)
 [![Academy](https://img.shields.io/badge/Academy-Learn-green?style=for-the-badge&logo=graduation-cap&logoColor=white)](https://academy.petcareai.com.br)
 [![Support](https://img.shields.io/badge/Support-24/7-orange?style=for-the-badge&logo=headphones&logoColor=white)](https://support.petcareai.com.br)
-[![API](https://img.shields.io/badge/API-Reference-purple?style=for-the-badge&logo=swagger&logoColor=white)](https://api.petcareai.com.br)
+[![API](https://img.shields.io/badge/API-Reference-purple?style=for-the-badge&logo=swagger&logoColor=white)](https://petcareai-api-restful.vercel.app)
 
 </div>
 
@@ -501,14 +500,10 @@ Seguimos o [**Contributor Covenant v2.1**](https://www.contributor-covenant.org/
 
 ---
 
-### 📅 Última Atualização: 20 de Julho de 2025
-### 📊 Versão do README: 3.0.0
+### 📅 Última Atualização: 05 de Agosto de 2025
+### 📊 Versão do README: 1.0.0
 ### 🔄 Próxima Revisão: Setembro de 2025
 
 **Feito com ❤️ pela PetCare AI Organization**
 
-![visitors](https://github.com/user-attachments/assets/5d7971a8-b144-4886-85b9-3bb777324b64)
-
 </div>
-
-https://github.com/user-attachments/assets/5d7971a8-b144-4886-85b9-3bb777324b64
